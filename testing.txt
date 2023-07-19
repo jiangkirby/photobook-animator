@@ -1,0 +1,17 @@
+shape rect1 rectangle 0 0 100 200 0 255 0
+
+snapshot First rectangle
+
+move rect1 200 100
+
+color rect1 255 0 0
+
+snapshot Moved and recolored
+
+resize rect1 200 400
+
+snapshot Resized
+
+remove rect1
+
+snapshot Blank

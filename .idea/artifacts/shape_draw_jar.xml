@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="shape_draw:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/shape_draw_jar</output-path>
+    <root id="archive" name="HW 8.jar">
+      <element id="module-output" name="HW 8" />
+    </root>
+  </artifact>
+</component>
